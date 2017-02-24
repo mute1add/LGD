@@ -1,0 +1,29 @@
+article{
+ width: 100%;
+ text-align: center;
+ color: white;
+}
+
+h1{
+ margin-top: 8%;
+ color: white;
+ text-align:center; 
+}
+div {
+ margin-left: 45%;
+ }
+p{
+ display: inline-block;
+ margin: 10px;
+}
+html{
+    background-image: url(../img/fon3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+footer{
+ background-image: url('../img/footer.jpg');
+  position: fixed;
+  left: 0;
+  bottom: 0;
+ width: 100%;}

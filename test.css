@@ -1,0 +1,12 @@
+/*html{height: auto}*/
+html{
+    background-image: url(../img/fon3.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+footer{
+ background-image: url('../img/footer.jpg');
+  position: fixed;
+  left: 0;
+  bottom: 0;
+ width: 100%;}
